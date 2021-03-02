@@ -1,0 +1,2 @@
+INSERT INTO STUDENTS( FIO, AGE)
+VALUES ('Иванов ИИ', 27);
